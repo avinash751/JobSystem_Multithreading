@@ -1,0 +1,14 @@
+C:\Users\avinash\Desktop\JobSystem\bin\Debug\net6.0\JobSystem.deps.json
+C:\Users\avinash\Desktop\JobSystem\bin\Debug\net6.0\JobSystem.dll
+C:\Users\avinash\Desktop\JobSystem\bin\Debug\net6.0\JobSystem.pdb
+C:\Users\avinash\Desktop\JobSystem\obj\Debug\net6.0\JobSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avinash\Desktop\JobSystem\obj\Debug\net6.0\JobSystem.AssemblyInfoInputs.cache
+C:\Users\avinash\Desktop\JobSystem\obj\Debug\net6.0\JobSystem.AssemblyInfo.cs
+C:\Users\avinash\Desktop\JobSystem\obj\Debug\net6.0\JobSystem.csproj.CoreCompileInputs.cache
+C:\Users\avinash\Desktop\JobSystem\obj\Debug\net6.0\JobSystem.dll
+C:\Users\avinash\Desktop\JobSystem\obj\Debug\net6.0\refint\JobSystem.dll
+C:\Users\avinash\Desktop\JobSystem\obj\Debug\net6.0\JobSystem.pdb
+C:\Users\avinash\Desktop\JobSystem\obj\Debug\net6.0\ref\JobSystem.dll
+C:\Users\avinash\Desktop\JobSystem\bin\Debug\net6.0\JobSystem.exe
+C:\Users\avinash\Desktop\JobSystem\bin\Debug\net6.0\JobSystem.runtimeconfig.json
+C:\Users\avinash\Desktop\JobSystem\obj\Debug\net6.0\JobSystem.genruntimeconfig.cache
